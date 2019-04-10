@@ -1,8 +1,8 @@
 {
-    "name":"tutorialspoint/hello-world",
+    "name":"zinber/hello-world",
     "authors":[
         {
-            "name":"tutorialspoint"
+            "name":"zinber"
         }
     ],
     "require":{},
